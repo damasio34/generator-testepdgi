@@ -6,8 +6,16 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Darlan Damasio",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damasio34/testepdgi.git"
+  },
+  "author": "Darlan Damasio",  
   "license": "MIT",
+    "bugs": {
+    "url": "https://github.com/damasio34/testepdgi/issues"
+  },
+  "homepage": "https://github.com/damasio34/testepdgi#readme",
   "files": [
     "generators"
   ],
