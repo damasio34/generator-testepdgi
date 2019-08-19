@@ -8,18 +8,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/damasio34/testepdgi.git"
+    "url": "git+https://github.com/damasio34/generator-testepdgi.git"
   },
-  "author": "Darlan Damasio",  
+  "author": "Darlan Damasio",
   "license": "MIT",
-    "bugs": {
-    "url": "https://github.com/damasio34/testepdgi/issues"
+  "bugs": {
+    "url": "https://github.com/damasio34/generator-testepdgi/issues"
   },
-  "homepage": "https://github.com/damasio34/testepdgi#readme",
+  "homepage": "https://github.com/damasio34/generator-testepdgi#readme",
   "files": [
     "generators"
   ],
-  "keywords": ["yeoman-generator"],
+  "keywords": [
+    "yeoman-generator"
+  ],
   "dependencies": {
     "yeoman-generator": "^1.0.0"
   }
